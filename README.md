@@ -2,4 +2,5 @@
 heyyyy so I did my best 
 
 I did a drop down menu
-Footers, headers, links linked to other websites urls 
+
+Changed the footers, headers, links to other websites urls...
